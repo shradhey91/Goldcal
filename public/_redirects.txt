@@ -1,1 +1,0 @@
-/api/*  http://goldcal-env.eba-qj4vmkkw.ap-south-1.elasticbeanstalk.com/:splat  200
