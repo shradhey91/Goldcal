@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "http://goldcal-env.eba-qj4vmkkw.ap-south-1.elasticbeanstalk.com/:path*"
+      "destination": "http://goldcal-env.eba-qj4vmkkw.ap-south-1.elasticbeanstalk.com/api/:path*"
     },
     {
       "source": "/(.*)",
